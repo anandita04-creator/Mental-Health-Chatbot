@@ -20,4 +20,5 @@ Python 🐍 – Efficient backend development and NLP processing.
 Gradio 🎛️ – Quick, interactive, and user-friendly web interface.
 Hugging Face Transformers 🤖 – Powerful pre-trained NLP models for human-like responses.
 OpenAI API 💡 – Advanced conversational capabilities for more empathetic interaction.
+
 ⚠️ Disclaimer: This chatbot provides general support and is not a substitute for professional help. For urgent issues, please reach out to a mental health professional
